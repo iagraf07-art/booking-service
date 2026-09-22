@@ -1,2 +1,7 @@
-# booking-service
-booking-service
+# Booking Service
+
+Сервис бронирования.
+
+## Функции
+- создание брони
+- проверка доступности
