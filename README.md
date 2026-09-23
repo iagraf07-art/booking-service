@@ -1,4 +1,4 @@
-# Booking Service v1.1
+# Booking Service v1.1 (main)
 
 Сервис бронирования.
 
